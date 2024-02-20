@@ -1,5 +1,5 @@
-import Image from "next/image";
+import Login from "@/app/login/page";
 
 export default function Home() {
-  return <h1>Home</h1>;
+  return <Login />;
 }
