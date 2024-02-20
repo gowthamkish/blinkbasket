@@ -1,5 +1,5 @@
 import Login from "@/app/login/page";
 
-export default function Home() {
+export default function Page() {
   return <Login />;
 }
